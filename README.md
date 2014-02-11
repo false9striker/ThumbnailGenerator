@@ -1,0 +1,4 @@
+ThumbnailGenerator
+==================
+
+Java thumbnail generator

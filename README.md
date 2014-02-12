@@ -1,9 +1,8 @@
 ThumbnailGenerator
 ==================
 
-Java thumbnail generator
-
- Creates thumbnail with given targetsize using imgscalr library (https://github.com/thebuzzmedia/imgscalr) 
+Java thumbnail generator - Creates thumbnail with given targetsize using imgscalr library (https://github.com/thebuzzmedia/imgscalr) 
+ <br>
  <br>
  <b>How to run?</b> <br>
  Put images to originals directory of the project.

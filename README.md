@@ -5,7 +5,7 @@ Java thumbnail generator
 
  Creates thumbnail with given targetsize using imgscalr library (https://github.com/thebuzzmedia/imgscalr) 
  <br>
- How to run? <br>
+ <b>How to run?</b> <br>
  Put images to originals directory of the project.
  Unzip lib/imgscalr-lib-4.2.zip. Add lib folder to the build path,
  if its a maven project include imgscalr lib as follows.
